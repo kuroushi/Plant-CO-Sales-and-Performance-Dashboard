@@ -1,9 +1,9 @@
 # Plant-CO-Sales-and-Performance-Dashboard
-Overview
+**Overview**
 
 This Power BI dashboard provides insights into the sales and performance of Plant Corporation for the year 2024. It helps visualize key business metrics such as Year-to-Date (YTD) sales, Profitability, and Year-over-Year comparisons.
 
-Features
+**Features**
 
 KPIs Overview: Displays YTD Sales, PYTD Sales, Gross Profit Percentage (GP%), and YTD vs PYTD difference.
 
@@ -17,27 +17,7 @@ Product Category Profitability: Shows gross profit contributions of different pr
 
 Filter Options: Interactive filters for Gross Profit, Quantity, and Sales across 2022, 2023, and 2024.
 
-Data Sources
-
-The dashboard is built using sales performance data, including:
-
-Sales transactions
-
-Profit and loss statements
-
-Product category sales breakdown
-
-Country-wise performance reports
-
-How to Use
-
-Open the Power BI file and load the necessary datasets.
-
-Interact with filters to analyze sales performance across different dimensions.
-
-Use visualizations to identify trends and key insights for decision-making.
-
-Technologies Used
+**Technologies Used**
 
 Power BI: For data visualization and dashboard creation.
 
